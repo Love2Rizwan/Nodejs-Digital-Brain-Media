@@ -1,0 +1,14 @@
+- src/
+  - controllers/
+    - authController.js
+    - todoController.js
+    - userController.js
+  - models/
+    - todo.js
+    - user.js
+    - index.js
+  - routes/
+    - authRoutes.js
+    - todoRoutes.js
+    - userRoutes.js
+  - index.js
